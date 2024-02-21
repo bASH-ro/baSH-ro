@@ -19,6 +19,7 @@
 </div>
 
 ###
+</hr>
 
 <div align="left">
   <a href="https://twitch.tv/composua" target="_blank">
