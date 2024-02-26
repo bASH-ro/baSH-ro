@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https/cdn.discordapp.com/avatars/1144806731269034054/c7fe7522c58a8388799823871ed995fa.png?format=webp&quality=lossless&width=376&height=376)](https://cdn.discordapp.com/avatars/1144806731269034054/c7fe7522c58a8388799823871ed995fa.png?size=1024"  />
+<img align="right" height="150" src="[https/cdn.discordapp.com/avatars/1144806731269034054/c7fe7522c58a8388799823871ed995fa.png?format=webp&quality=lossless&width=376&height=376)](https://cdn.discordapp.com/avatars/1144806731269034054/c7fe7522c58a8388799823871ed995fa.png?size=1024](https://images-ext-2.discordapp.net/external/NlUtj0_52GCy8uV4DKcP873c4KhjQV6R67YvTsM9zbc/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/1144806731269034054/03fe1a3c3803d015e415bd2605794ff4.webp?format=webp&width=230&height=230)"  />
 
 ###
 
