@@ -7,8 +7,10 @@ I'm a backend developer, with coming up to 2 years experience. Fluent in Python,
 *   🚀  I'm currently working on [Jynxzi Automod Bot](http://discord.gg/jynxzi)
 *   🧠  I'm learning PHP and more frontend
 
-<a href="https://www.x.com/rnnr_r6" target="_blank" rel="noreferrer"><imgsrc="https://img.shields.io/twitter/follow/rnnr_r6?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"</a>
-<a href="https://www.twitch.tv/oArqq" target="_blank" rel="noreferrer"><imgsrc="https://img.shields.io/twitch/status/oArqq?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=000000&label=TWITCH+STATUS" /></a>
+<a href="https://www.x.com/rnnr_r6" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/twitter/follow/rnnr_r6?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
+                /></a><a href="https://www.twitch.tv/oArqq" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/twitch/status/oArqq?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=000000&label=TWITCH+STATUS" /></a>
 
 ### Skills 
 <p align="left">
