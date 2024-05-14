@@ -4,7 +4,6 @@ Hi 👋 My name is Surge
 I'm a backend developer, with coming up to 2 years experience. Fluent in Python, TS, JS, C# and touched base with many other languages. Currently studying computer science in high school.
 
 *   🌍  I'm based in the United Kingdom!
-*   🚀  I'm currently working on [Jynxzi Automod Bot](http://discord.gg/jynxzi)
 *   🧠  I'm learning PHP and more frontend
 
 <a href="https://www.x.com/rnnr_r6" target="_blank" rel="noreferrer"><img
