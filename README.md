@@ -25,6 +25,6 @@ I'm a backend developer, with coming up to 2 years experience. Fluent in Python,
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/bash-RO"><img src="https://github-readme-stats.vercel.app/api?username=bash-RO&show_icons=true&hide=&count_private=true&title_color=0f172a&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="bash-RO's GitHub stats" /></a>
+<a href="http://www.github.com/bash-RO"><img src="https://github-readme-stats.vercel.app/api?username=bash-RO&show_icons=true&hide=false&count_private=true&title_color=0f172a&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="bash-RO's GitHub stats" /></a>
 
 <a href="https://github.com/bash-RO" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bash-RO&langs_count=10&title_color=0f172a&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
