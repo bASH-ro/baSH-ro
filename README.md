@@ -12,4 +12,3 @@
 ### ✍️Quote
 *Never regret. If it's good, it's wonderful. If it's bad, it's experience.*
 ---
-[![](https://visitcount.itsvg.in/api?id=bash-RO&icon=9&color=8)](https://visitcount.itsvg.in)
