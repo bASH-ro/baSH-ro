@@ -11,7 +11,3 @@
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=bash-RO&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️Quote
-*Never regret. If it's good, it's wonderful. If it's bad, it's experience.*
----
